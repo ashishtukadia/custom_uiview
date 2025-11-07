@@ -4,6 +4,7 @@
 [![Version](https://img.shields.io/cocoapods/v/custom_uiview.svg?style=flat)](https://cocoapods.org/pods/custom_uiview)
 [![License](https://img.shields.io/cocoapods/l/custom_uiview.svg?style=flat)](https://cocoapods.org/pods/custom_uiview)
 [![Platform](https://img.shields.io/cocoapods/p/custom_uiview.svg?style=flat)](https://cocoapods.org/pods/custom_uiview)
+[![SPM Compatible](https://img.shields.io/badge/SPM-Compatible-blue.svg)]()
 
 ## Example
 

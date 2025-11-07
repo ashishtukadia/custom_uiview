@@ -1,0 +1,6 @@
+framework module custom_uiview {
+  umbrella header "custom_uiview-umbrella.h"
+
+  export *
+  module * { export * }
+}

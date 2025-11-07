@@ -1,0 +1,16 @@
+PODS:
+  - custom_uiview (0.1.0)
+
+DEPENDENCIES:
+  - custom_uiview (from `../`)
+
+EXTERNAL SOURCES:
+  custom_uiview:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  custom_uiview: d198aaebe5cf4a494d6ca22969a70a7906a78b51
+
+PODFILE CHECKSUM: e44f26d9a8475540ead91d664caa80252a3ce912
+
+COCOAPODS: 1.16.2

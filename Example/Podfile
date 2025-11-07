@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'custom_uiview_Example' do
+  pod 'custom_uiview', :path => '../'
+
+  target 'custom_uiview_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

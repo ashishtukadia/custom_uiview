@@ -12,6 +12,24 @@ To run the example project, clone the repo, and run `pod install` from the Examp
 
 ## Requirements
 
+## Swift Package Manager (SPM)
+
+You can install **custom_uiview** using Swift Package Manager.
+
+### Using Xcode
+
+1. Open **File → Add Packages…**
+2. Enter the following package URL:
+
+   **https://github.com/ashishtukadia/custom_uiview**
+
+3. Choose **Up to Next Major Version**
+4. Add the package to your project.
+
+### Direct SPM Link
+
+[https://github.com/ashishtukadia/custom_uiview](https://github.com/ashishtukadia/custom_uiview)
+
 ## Installation
 
 custom_uiview is available through [CocoaPods](https://cocoapods.org). To install

@@ -14,8 +14,7 @@ Perfect for creating clean and reusable UI components in iOS apps.
   s.author           = { 'AshishT' => 'ashishtukadia3609@gmail.com' }
 
   s.source           = {
-    :git => 'https://github.com/ashishtukadia/custom_uiview.git',
-    :tag => s.version.to_s
+    :git => 'https://github.com/ashishtukadia/custom_uiview.git'
   }
 
   s.ios.deployment_target = '10.0'
